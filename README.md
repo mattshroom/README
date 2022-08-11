@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Vue and ExpressJS**
 
-- 👨‍💻 All of my projects are currently private [or done at work via a different account](or done at work via a different account)
+- 👨‍💻 Most of my projects are currently private (or done at work via another account)
 
 - 📫 Reach me at **matthaeusong@gmail.com**
 
